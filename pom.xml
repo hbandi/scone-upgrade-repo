@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.salesforce.sconems</groupId>
 		<artifactId>scone-ms-service-parent</artifactId>
-		<version>9.5.21</version>
+		<version>10.1.0</version>
 		<relativePath/>
 	</parent>
 	
